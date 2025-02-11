@@ -1,0 +1,14 @@
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\bin\Debug\net9.0\aula1.exe
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\bin\Debug\net9.0\aula1.deps.json
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\bin\Debug\net9.0\aula1.runtimeconfig.json
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\bin\Debug\net9.0\aula1.dll
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\bin\Debug\net9.0\aula1.pdb
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\aula1.AssemblyInfoInputs.cache
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\aula1.AssemblyInfo.cs
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\aula1.csproj.CoreCompileInputs.cache
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\aula1.dll
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\refint\aula1.dll
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\aula1.pdb
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\aula1.genruntimeconfig.cache
+C:\Users\kami.vvsouza\source\repos\aula1\aula1\obj\Debug\net9.0\ref\aula1.dll
